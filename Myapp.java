@@ -10,6 +10,6 @@ class Ourapp
 	int num;
 	Ourapp()
 	{
-		
+		System.out.println();
 	}
 }
