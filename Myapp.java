@@ -4,3 +4,12 @@ public class Myapp{
 		System.out.println("It displays");
 	}
 }
+class Ourapp
+{
+	int time;
+	int num;
+	Ourapp()
+	{
+		
+	}
+}
